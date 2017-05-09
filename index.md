@@ -1,10 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Programming Project'
+landing-title: Programming Project
 description: 'Hacks for Dev Projects'
-image: 'https://dl.dropbox.com/s/s19xe5p9fxwfj68/ProgrammingProjectLogo.png?dl=0'
-author: 'Zhan Hui'
+image: assets/image/ProgrammingProjectLogo.png
+author: Zhan Hui
 ---
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
