@@ -1,12 +1,12 @@
 # Site settings
-title: Programming Project
+title: Project Hacks
 subtitle: on github Pages
 email: hoezhanhui@gmail.com
 description: A blog about dev projects & //TODO's
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://programmingproject.me" # the base hostname & protocol for your site
+url: "http://projecthacks.xyz" # the base hostname & protocol for your site
 author: Zhan Hui
-street_address: 
+street_address:
 city: Madison
 state: WI
 zip_code: 53706
