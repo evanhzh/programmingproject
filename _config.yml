@@ -15,7 +15,7 @@ phone: (608) 504-2226
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 8
 
 # Social settings
 500px_url:
