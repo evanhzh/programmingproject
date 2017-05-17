@@ -38,17 +38,26 @@
 			padding: 8px 0;
 
 		}
+
+
 			*#mailchimp input[type="submit"]:hover { color: #F2C94C }*/
-
-
+/*//#F1F2F3*/
+	#mc-embedded-subscribe-form {
+		background-color: #F1F2F3;
+	}
 	#mc-embedded-subscribe {
-		background: #222 !important;
+		background: #242943 !important;
 		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)!important
 	}
 	#mc-embedded-subscribe:hover {
-	  background: #222 !important;
+	  background: #242943 !important;
 		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2)!important
 	}
+
+	.mc-field-group {
+		color: black;
+	}
+
 	button {
 	      0 6px 20px 0 rgba(0,0,0,0.19);
 	}
@@ -57,17 +66,18 @@
 		color: black;
 	}
 
+/*medium button*/
 
+	.button-medium {
+		margin-bottom: 50px;
+   text-decoration: none!important;
+	}
 	.wrapper-medium {
 		text-align: center;
 		width: auto!important;
+		margin-left: 30px!important;
 	}
 
-	.medium-button {
-		width: auto!important;
-		text-align: center;
-		display: inline-block;
-	}
 	.test {
 			background-image: url('../images/blog-img/project-hacks-logo-v1.png');
 			background-size: contain;
@@ -1795,9 +1805,6 @@
 			border-bottom: 0;
 		}
 
-	h1.title-break {
-		word-wrap: break-word!important;
-	}
 	h1 {
 		font-size: 2.5em;
 
@@ -1914,6 +1921,7 @@
 		width: -ms-max-content;
 		width: max-content;
 		margin-bottom: 2em;
+		max-width: 100% !important;
 	}
 
 		header.major > :first-child {

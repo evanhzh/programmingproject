@@ -19,13 +19,11 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
+    <div class="wrapper-medium">
+      <a href="{{ page.medium }}"><button class="button-medium" style="width: 100%; height: 50px;"><i class="fa fa-medium" aria-hidden="true" style="text-decoration:none!important"></i> Read on Medium</button></a>
+    </div>
 		<header class="major">
-
-      <div class="wrapper-medium inline-block">
-        <button style="display: block; width: 100%;"><a href="{{ page.medium }}"<i class="fa fa-medium" aria-hidden="true"></i> Read on Medium</a></button>
-      </div>
-
-			<h1 class="title-break">{{ page.title }}</h1>
+			<h1>{{ page.title }}</h1>
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>

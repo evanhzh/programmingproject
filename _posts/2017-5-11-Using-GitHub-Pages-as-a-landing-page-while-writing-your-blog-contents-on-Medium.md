@@ -14,7 +14,7 @@ After setting up a working site on GitHub pages, I realized that even though Git
 For those who want to take advantage of Medium’s large audience base, while, at the same time, want to keep a landing page, you could easily set a predefined variable at the front matter between the triple dashes like so:
 
 Finally, add a href tag in your _includes file (or anywhere logically) with the link
-```
+```html
 <h3><a href=”{{ post.medium }}” class=”link”>{{ post.title }}</a></h3>
 ```
 (Note: ‘post’ is just my file html layout file & I have a file for my tiles which displays the post titles and their images).
