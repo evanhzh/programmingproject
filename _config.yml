@@ -4,7 +4,7 @@ subtitle: on github Pages
 email: hoezhanhui@gmail.com
 description: A blog about dev projects & //TODO's
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://projecthacks.xyz" # the base hostname & protocol for your site //TODO //fix subscribe css text input color
+url: "https://www.projecthacks.xyz" # the base hostname & protocol for your site //TODO //fix subscribe css text input color
 enforce_ssl: projecthacks.xyz
 author: Zhan Hui
 street_address:
