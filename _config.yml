@@ -1,6 +1,6 @@
 # Site settings
 title: Project Hacks
-subtitle: on github Pages
+subtitle: on GitHub Pages
 email: hoezhanhui@gmail.com
 description: A blog about dev projects & //TODO's
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -12,7 +12,7 @@ city: Madison
 state: WI
 zip_code: 53706
 country: United States of America
-phone: (608) 504-2226
+phone: 
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

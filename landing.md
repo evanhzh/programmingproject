@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: About Me
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Hi, my name is Zhan Hui! I am a Computer Engineering sophomore at the University of Wisconsin-Madison, United States.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>My Projects...</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>include learning about <b>iOS APP DEVELOPMENT</b> & <b>FULL STACK WEB DEVELOPMENT</b></p>
 	</div>
 </section>
 
@@ -28,11 +28,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Get to know more about me on LinkedIn</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<!-- <p></p> -->
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.linkedin.com/in/zhanhuihoe/" class="button"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
 				</ul>
 			</div>
 		</div>
@@ -44,9 +44,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>PomoFocus iOS App</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>PomoFocus is a productivity app that is designed based on a few productivity strategies that I personally am using and find them effective in maintaining my workflow.</p>
+				<p>Essentially it is:  <b>"A productivity technique now built into an app!"</b></p>
+
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,11 +62,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Becoming Full Stack Web Developer</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>I am currently working on Free Code Camp's Full Stack Web Development Certificate.</p>
+				<p><i>Update:  Almost done with my Front End Web Development Certificate!</i></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.freecodecamp.com/e-mech" class="button">My Camper's Code Portfolio</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,11 +78,13 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>About Project Hacks</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Project Hacks is where I share the tips, tricks and resources that I found along the way as I work on my programming projects on iOS App Development and Web Development.</p>
+		<p>My hope is to drive all budding, young developers to find their own projects to learn and become better at what they are interested in. Often, they want to learn something but don't know where to start. Hopefully, Project Hacks could be a platform to spark discussions and springboard executable actions among them.</p>
+		<p>I am more than excited to see those who want to learn programing become part of the growing community. It is my goal to move those who "want to learn programming" to those who "are programming".</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="all_posts.html" class="button next">Read more articles</a></li>
 		</ul>
 	</div>
 </section>
