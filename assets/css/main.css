@@ -80,7 +80,7 @@
 		border-style: solid;
 		border-width: 1px;
 	}
-	a:hover {
+	.button-medium-hover:hover {
 		 border: none;
 		 background-color: white;
 	}
