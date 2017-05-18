@@ -13,6 +13,8 @@ After setting up a working site on GitHub pages, I realized that even though Git
 
 For those who want to take advantage of Medium’s large audience base, while, at the same time, want to keep a landing page, you could easily set a predefined variable at the front matter between the triple dashes like so:
 
+_Update: I also could add the same image that is on Medium on this blog by copying the image address. I will not need to host my image files anywhere! This solution is a bit quirky but it works like a charm! I didn't figure it out until a couple of weeks later publishing this post._ 
+
 Finally, add a href tag in your _includes file (or anywhere logically) with the link
 ```html
 <h3><a href=”{{ post.medium }}” class=”link”>{{ post.title }}</a></h3>
@@ -32,6 +34,6 @@ Alternatively, you could blog on GitHub pages and also create links to medium fo
 
 So, it is not an either-or situation but rather, I have plans to design my blog on GitHub pages without images optimized for those who are using limited mobile data.
 
->Your challenge for the day: Try setting up a blog post on GitHub Pages, create a blog post, and then add add a link to your Medium blog in the front matter section!
+> Your challenge for the day: Try setting up a blog post on GitHub Pages, create a blog post, and then add add a link to your Medium blog in the front matter section!
 
 Feel free to comment below if you need help. Good luck!
