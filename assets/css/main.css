@@ -1,5 +1,10 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js");
+
+  /*<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src=""></script>*/
 
 /*
 	Forty by HTML5 UP
@@ -65,6 +70,38 @@
 		color: black;
 	}
 
+/*landing*/
+	.landing-profile-pic {
+		border-radius: 50% !important;
+		width: 60% !important;
+		/*height: 100% !important;*/
+	}
+
+	.social-btn {
+		width: 250px !important;
+	}
+	.landing-heading {
+		text-align: center !important;
+	}
+
+	/*.ongoing-proj-btn {
+		width: 450px !important;
+	}*/
+
+	.h4-landing-proj {
+		margin-top: 100px;
+	}
+
+	.list-group {
+
+	}
+	.list-group-item {
+    margin-bottom: 15px;
+		color: black;
+}
+
+
+
 /*medium button*/
 
 	.button-medium {
@@ -81,8 +118,8 @@
 		border-width: 1px;
 	}
 	.button-medium-hover:hover {
-		 border: none;
-		 background-color: white;
+		 /*border: none;*/
+		 /*background-color: white;*/
 	}
 
 	.wrapper-medium {
@@ -1782,13 +1819,13 @@
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
 		color: inherit;
-		text-decoration: none;
+		text-decoration: none !important;
 
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #9bf1ff !important;
+			/*REMEMBER HOVER*/
 		}
 
 		a:active {
@@ -3565,7 +3602,8 @@
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: black;
+			opacity: 0.5;
 		}
 
 		#banner.style3:after {

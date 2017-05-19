@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: 'Hi, my name is Zhan Hui! I am a Computer Engineering sophomore at the University of Wisconsin-Madison, United States.'
-image: assets/images/pic07.jpg
+image: assets/images/landing-page-pic/yellow-metal-design-decoration-min.jpg
 nav-menu: true
 ---
 
@@ -11,67 +11,74 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
+
 	<div class="inner">
-		<header class="major">
-			<h2>My Projects...</h2>
-		</header>
-		<p>include learning about <b>iOS APP DEVELOPMENT</b> & <b>FULL STACK WEB DEVELOPMENT</b></p>
+				<header class="major">
+					<h2>Focus</h2>
+				</header>
+
+			 <ul class="list-group">
+				 <li class="list-group-item">Full Stack Web Development<span class="badge">2</span></li>
+			   <li class="list-group-item">iOS App Development<span class="badge">2</span></li>
+			   <!-- <li class="list-group-item">Warnings <span class="badge">3</span></li> -->
+			 </ul>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a href="#" class="image" style="padding: 50px;">
+			<img src="assets/images/landing-page-pic/linkedin-prof.jpg" alt="" data-position="center center" class="landing-profile-pic"/>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Get to know more about me on LinkedIn</h3>
+					<h3>Contact</h3>
 				</header>
 				<!-- <p></p> -->
 				<ul class="actions">
-					<li><a href="https://www.linkedin.com/in/zhanhuihoe/" class="button"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+					<li><a href="{{ site.linkedin_url }}" class="button social-btn"><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+					<li><a href="{{ site.github_url }}" class="button social-btn"><i class="fa fa-github-square" aria-hidden="true"></i> GitHub </a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		<a href="#" class="image">
+			<img src="assets/images/landing-page-pic/luca-bravo-217276-min.jpg" alt="" data-position="top center" style="opacity: 0.7"/>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>PomoFocus iOS App</h3>
+					<h3>Becoming a Full Stack Web Developer</h3>
 				</header>
-				<p>PomoFocus is a productivity app that is designed based on a few productivity strategies that I personally am using and find them effective in maintaining my workflow.</p>
-				<p>Essentially it is:  <b>"A productivity technique now built into an app!"</b></p>
-
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<p>I am currently working on Free Code Camp's Full Stack Web Development Certificate.</p>
+					<p><i>Update:  Almost done with my Front End Web Development Certificate!</i></p>
+				<ul class="actions">			
+					<li><a href="https://www.freecodecamp.com/e-mech" class="button">My FCC Camper's Code Portfolio</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Becoming Full Stack Web Developer</h3>
+					<h3>PomoFocus iOS App</h3>
 				</header>
-				<p>I am currently working on Free Code Camp's Full Stack Web Development Certificate.</p>
-				<p><i>Update:  Almost done with my Front End Web Development Certificate!</i></p>
+
+				<p>PomoFocus is a productivity app that is designed based on a few productivity strategies that I personally am using and find them effective in maintaining my workflow.</p>
+				<p>Essentially it is:  <b>"A productivity technique now built into an app!"</b></p>
 				<ul class="actions">
-					<li><a href="https://www.freecodecamp.com/e-mech" class="button">My Camper's Code Portfolio</a></li>
+					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
