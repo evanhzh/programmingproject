@@ -29,7 +29,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="#" class="image" style="padding: 50px;">
-			<img src="assets/images/landing-page-pic/linkedin-prof.jpg" alt="" data-position="center center" class="landing-profile-pic"/>
+			<img src="assets/images/landing-page-pic/profilePic1-min.png" alt="" data-position="center center" class="landing-profile-pic"/>
 		</a>
 		<div class="content">
 			<div class="inner">
