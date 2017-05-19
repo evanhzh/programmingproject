@@ -8,12 +8,12 @@ medium: https://medium.com/@evanzhoe/using-github-pages-as-a-landing-page-while-
 
 After setting up a working site on GitHub pages, I realized that even though GitHub Pages are simple but personally, blogging on Medium would be much simpler when I can quickly add images onto my blog contents without worrying about sorting my image files in the correct folder and renaming them correctly.
 
->In this way, I could focus on writing and styling easily. Essentially, it is sort of a hybrid of Medium+ GitHub pages.
+>This way, I could focus on writing and styling easily. Essentially, it is sort of a hybrid of Medium+ GitHub pages.
 
 
 For those who want to take advantage of Medium’s large audience base, while, at the same time, want to keep a landing page, you could easily set a predefined variable at the front matter between the triple dashes like so:
 
-_Update: I also could add the same image that is on Medium on this blog by copying the image address. I will not need to host my image files anywhere! This solution is a bit quirky but it works like a charm! I didn't figure it out until a couple of weeks later publishing this post._ 
+_Update: I also could add the same image that is on Medium on this blog by copying the image address. I will not need to host my image files anywhere! This solution is a bit quirky but it works like a charm! I didn't figure it out until a couple of weeks later publishing this post._
 
 Finally, add a href tag in your _includes file (or anywhere logically) with the link
 ```html
