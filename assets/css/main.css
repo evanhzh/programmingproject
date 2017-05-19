@@ -70,6 +70,7 @@
 		color: black;
 	}
 
+
 /*landing*/
 	.landing-profile-pic {
 		border-radius: 50% !important;
@@ -120,6 +121,9 @@
 	.button-medium-hover:hover {
 		 /*border: none;*/
 		 /*background-color: white;*/
+	}
+	.button-highlight:hover {
+		color: white !important;
 	}
 
 	.wrapper-medium {
@@ -1823,10 +1827,10 @@
 
 	}
 
-		a:hover {
-			border-bottom-color: transparent;
-			/*REMEMBER HOVER*/
-		}
+		/*a:hover {
+			/*border-bottom-color: transparent;*/
+			/*REMEMBER HOVER
+		}*/
 
 		a:active {
 			color: #53e3fb !important;

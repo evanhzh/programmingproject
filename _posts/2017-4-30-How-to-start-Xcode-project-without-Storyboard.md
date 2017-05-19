@@ -20,7 +20,7 @@ Summarizing the steps:
 * Create a new class.  
 * In that class, create a function to override the viewDidLoad.  
 
-![ViewController1](https://cdn-images-1.medium.com/max/1600/1*YY9qt2OWcGbZiaLBBWr0Jg.png)
+![pic-01](/assets/images/blog-img/Start-XCode-Without-Storyboard/pic-01.png)
 
 2. Select your AppDelegate file. Notice the variable window: UIWindow? is already declared in your AppDelegate file? Now, in the application function, type:  
 
@@ -34,7 +34,7 @@ Summarizing the steps:
 > The `UICollectionViewFlowLayout` class is a concrete layout object that organizes items into a grid with optional header and footer views for each section. The items in the collection view flow from one row or column (depending on the scrolling direction) to the next, with each row comprising as many cells as will fit. Cells can be the same sizes or different sizes.
 
 * Finally, assign UINavigationController with the rootViewController parameter.
-![ViewController2](https://cdn-images-1.medium.com/max/1600/1*RrplvbCzjqxPrvzN-NpAHA.png)
+![ViewController2](/assets/images/blog-img/Start-XCode-Without-Storyboard/pic-02.png)
 
 We want to put our custom ViewController in the spotlight when running the simulator. We can do that by specifying it to our rootViewController.
 
