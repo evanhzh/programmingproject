@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: Project Hacks
-description: 'Hacks for Dev Projects'
+landing-title: Programming Project
+description: 'Blog about Dev Projects'
 image: assets/image/ProgrammingProjectLogo.png
 author: Zhan Hui
 ---

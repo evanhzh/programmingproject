@@ -3,7 +3,7 @@ layout: post
 title: Using GitHub Pages as a landing page while writing your blog contents on Medium
 description: Start blogging with flexibility with beautiful themes, Jekyll, custom domain and DNS provider of your choice.
 image: assets/images/blog-img/camera-1215600_640-low.jpg
-medium: https://medium.com/@evanzhoe/using-github-pages-as-a-landing-page-while-creating-blog-contents-on-medium-7efd4028bec0
+medium: https://medium.com/@evanzhoe/using-github-pages-as-a-landing-page-while-writing-your-blog-contents-on-medium-daec220f2e64
 ---
 
 After setting up a working site on GitHub pages, I realized that even though GitHub Pages are simple but personally, blogging on Medium would be much simpler when I can quickly add images onto my blog contents without worrying about sorting my image files in the correct folder and renaming them correctly.

@@ -85,9 +85,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>About Project Hacks</h2>
+			<h2>About Programming Project</h2>
 		</header>
-		<p>Project Hacks is where I share the tips, tricks and resources that I found along the way as I work on my programming projects on iOS App Development and Web Development.</p>
+		<p>Project Project is where I share the tips, tricks and resources that I found along the way as I work on my programming projects on iOS App Development and Web Development.</p>
 		<p>My hope is to drive all budding, young developers to find their own projects to learn and become better at what they are interested in. Often, they want to learn something but don't know where to start. Hopefully, Project Hacks could be a platform to spark discussions and springboard executable actions among them.</p>
 		<p>I am more than excited to see those who want to learn programing become part of the growing community. It is my goal to move those who "want to learn programming" to those who "are programming".</p>
 		<ul class="actions">
