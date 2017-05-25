@@ -3,10 +3,8 @@ layout: post
 title: How to start Xcode project without Storyboard
 description: Developing iOS app programmatically
 image: assets/images/blog-img/galymzhan-abdugalimov-181-min.jpg
-medium: https://medium.com/@evanzhoe/summarizing-how-to-start-xcode-project-programmatically-ecab6d2a977a
+medium: https://medium.com/@evanzhoe/how-to-start-xcode-project-without-storyboard-240409d59079
 ---
-![pic-01](/assets/images/blog-img/Start-XCode-Without-Storyboard/pic-01.png)
-
 I have just completed LetsBuiltThatApp Basic Training Course developed by Brian Voong on how to build a custom simple Kindle app without the help of storyboard.  
 It is a totally different experience to start my Xcode project by setting up a new ViewController using a custom name and then removing the storyboard!
 
@@ -39,8 +37,10 @@ So, today, I would like to challenge myself to put together a summary that would
 
   Here’s the explanation from the Apple’s documentation:
 
-  > The root view controller provides the content view of the window. Assigning a view controller to this property (either programmatically or using Interface Builder) installs the view controller’s view as the content view of the window.*
+  > The root view controller provides the content view of the window. Assigning a view controller to this property (either programmatically or using Interface Builder) installs the view controller’s view as the content view of the window.
 
 We are all set!
 
 You can now remove your Storyboard from your workspace. It’s a bit daunting to move the Storyboard to trash at first, but I’m already getting used to it. Don’t forget to clear out the Main Interface to avoid error. By default, it holds a reference to the Storyboard.
+
+![default-storyboard-example](/assets/images/blog-img/default-storyboard-example.png)

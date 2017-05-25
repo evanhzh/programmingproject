@@ -3,7 +3,7 @@ layout: post
 title: How to learn front-end web development for free?
 description: Start blogging with flexibility with beautiful themes, Jekyll, custom domain and DNS provider of your choice.
 image: assets/images/blog-img/do-more.jpeg
-medium:
+medium: https://medium.com/@evanzhoe/how-to-learn-front-end-web-development-for-free-8c82f4ad774f
 ---
 
 >Persistence is key!
