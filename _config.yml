@@ -1,18 +1,18 @@
 # Site settings
-title: Project Hacks
+title: Programming Project
 subtitle: on GitHub Pages
 email: hoezhanhui@gmail.com
 description: A blog about dev projects & //TODO's
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.projecthacks.xyz" # the base hostname & protocol for your site //TODO //fix subscribe css text input color
-enforce_ssl: projecthacks.xyz
+url: "https://www.programmingproject.xyz" # the base hostname & protocol for your site //TODO //fix subscribe css text input color
+enforce_ssl: programmingproject.xyz
 author: Zhan Hui
 street_address:
 city: Madison
 state: WI
 zip_code: 53706
 country: United States of America
-phone: 
+phone:
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
