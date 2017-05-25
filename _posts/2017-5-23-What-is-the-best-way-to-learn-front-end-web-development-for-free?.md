@@ -10,7 +10,7 @@ medium:
 
 **1. Start with freeCodeCamp (FCC) for free**
 
-There is a large community that you can join. Make the forum space and the chatroom on Gitter your classroom. Ask specific questions. It is almost always that someone there could help you out almost instantly based on my past experience. FCC has a structured syllabus which means that you won't feel lost and overwhelmed (at least that is how I feel compared to randomly searching YouTube videos figuring out how to create a button using HTML).
+ There is a large community that you can join. Make the forum space and the chatroom on Gitter your classroom. Ask specific questions. It is almost always that someone there could help you out almost instantly based on my past experience. FCC has a structured syllabus which means that you won't feel lost and overwhelmed (at least that is how I feel compared to randomly searching YouTube videos figuring out how to create a button using HTML).
 
 There are a few YouTube tutorials that might help you out sometimes if you are more of a visual learner like myself.
 
@@ -26,7 +26,7 @@ Course link: [The Web Developer Bootcamp, Colt Steele](https://www.udemy.com/the
 
 **3. Build your own static website with free hosting with GitHub pages**
 
-After about 3 months working on the mini projects on FCC and completing the basics of HTML, CSS, Javascript and jQuery while keeping up with my college assignments as an undergraduate, I started detouring a little looking for other ways I could reinforce what I have been learning in FCC. One idea that struck me was why not build my own website from scratch? Well, maybe you thought of Wordpress, Wix or Weebly when you think of starting a blog or website. At least that was what that crossed my mind at that time. That is when I found GitHub pages! You won't believe just how amazing GitHub Pages is. It is lightweight, reliable, highly customizable and free! Nothing beats hosting a static website on your own GitHub repository. You might need to learn a bit about Jekyll which supports the use of markdown for your blog contents. Another bonus is that GitHub Pages can be secured via HTTPS easily.
+ After about 3 months working on the mini projects on FCC and completing the basics of HTML, CSS, Javascript and jQuery while keeping up with my college assignments as an undergraduate, I started detouring a little looking for other ways I could reinforce what I have been learning in FCC. One idea that struck me was why not build my own website from scratch? Well, maybe you thought of Wordpress, Wix or Weebly when you think of starting a blog or website. At least that was what that crossed my mind at that time. That is when I found GitHub pages! You won't believe just how amazing GitHub Pages is. It is lightweight, reliable, highly customizable and free! Nothing beats hosting a static website on your own GitHub repository. You might need to learn a bit about Jekyll which supports the use of markdown for your blog contents. Another bonus is that GitHub Pages can be secured via HTTPS easily.
 
 It won't be too difficult frankly. Keep learning progressively and then apply the knowledge which makes learning a little more fun and exciting!
 
