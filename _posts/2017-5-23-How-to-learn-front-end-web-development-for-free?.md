@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is the best way to learn front-end web development for free?
+title: How to learn front-end web development for free?
 description: Start blogging with flexibility with beautiful themes, Jekyll, custom domain and DNS provider of your choice.
 image: assets/images/blog-img/do-more.jpeg
 medium:

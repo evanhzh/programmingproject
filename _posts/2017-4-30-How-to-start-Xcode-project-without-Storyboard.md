@@ -14,8 +14,8 @@ It is a totally different experience to start my Xcode project by setting up a n
 Today, my challenge is to set up a new Xcode project so that I can work on an iOS application development programmatically. Thanks to Brian, now I know what I should do to get myself all set for that. Although there are quite some steps to get our project set up, most of his approach is to keep running the simulator after a few lines and build on from the error displayed on the console.
 So, today, I would like to challenge myself to put together a summary that would help me start any project on Xcode in a breeze.
 
-1. **To get started:**
- * Create a new Swift file in your workspace folder. (This file would be your custom ViewController replacing the default ViewController)  
+**To get started:**
+1. Create a new Swift file in your workspace folder. (This file would be your custom ViewController replacing the default ViewController)
  * Import UIKit to have access to ViewController class.  
  * Create a new class.  
  * In that class, create a function to override the viewDidLoad.
