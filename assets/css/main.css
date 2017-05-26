@@ -12,42 +12,11 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Reset */
-/*#mailchimp {
-	background: #f8f8f8;
-	color: #3D6392;
-	padding: 20px 15px;
-}
-	#mailchimp input {
-		 border: medium none;
-    color: gray;
-    font-family: times new roman;
-    font-size: 16px;
-    font-style: italic;
-    margin-bottom: 10px;
-    padding: 8px 10px;
-    width: 300px;
-		border-radius: 20px;
-		-moz-border-radius: 20px;
-		-webkit-border-radius: 20px;
-	}
-		#mailchimp input.email { background: #fff }
-		#mailchimp input.name { background: #fff}
-		#mailchimp input[type="submit"] {
-			background: #115B87;
-			color: #fff;
-			cursor: pointer;
-			font-size: 15px;
-			width: 35%;
-			padding: 8px 0;
 
-		}
-
-
-			*#mailchimp input[type="submit"]:hover { color: #F2C94C }*/
-/*//#F1F2F3*/
+/*mailchimp form*/
 	#mc-embedded-subscribe-form {
 		background-color: #F1F2F3;
+		border-radius: 20px;
 	}
 	#mc-embedded-subscribe {
 		background: #242943 !important;
@@ -101,10 +70,27 @@
 		color: black;
 }
 
+/*read more button*/
+.button-read-more {
+	padding: 7px;
+	border-color: white;
+	text-align: center;
+	position: left;
+	background: white;
+	border-radius: 5px;
+	color: #242943;
+	border-style: solid;
+	border-width: 1px;
+	width: 20%;
+	margin-bottom: 10%;
+}
 
 
+.all-post-list-item {
+	 line-height: 50px;
+	 list-style-type: none;
+}
 /*medium button*/
-
 	.button-medium {
 		margin-top: -150px;
 		margin-bottom: 50px;
@@ -118,12 +104,10 @@
 		border-style: solid;
 		border-width: 1px;
 	}
-	.button-medium-hover:hover {
-		 /*border: none;*/
-		 /*background-color: white;*/
-	}
+
 	.button-highlight:hover {
-		color: white !important;
+		opacity: 0.5!important;
+		text-shadow: black;
 	}
 
 	.wrapper-medium {
@@ -134,7 +118,7 @@
 	}
 
 	.test {
-			background-image: url('../images/blog-img/project-hacks-logo-v1.png');
+			background-image: url('/assets/images/programming-project-logo-final.png');
 			background-size: contain;
 			background-repeat: no-repeat;
 			background-position: center;

@@ -4,9 +4,12 @@ title: How to learn front-end web development for free?
 description: Start blogging with flexibility with beautiful themes, Jekyll, custom domain and DNS provider of your choice.
 image: assets/images/blog-img/do-more.jpeg
 medium: https://medium.com/@evanzhoe/how-to-learn-front-end-web-development-for-free-8c82f4ad774f
+
 ---
+There are many ways that you can start learning about web development. Make what you are doing fun and all of a sudden, nothing seems so daunting anymore. Trust me, learning web development is a skill that takes time to hone. To make things even better, have one or two personal projects in mind that you can apply your newly learned skills like building a website from scratch after learning a bit of HTML and CSS! Slowly, apply some Javascript to make your website more interactive. In this article, I would like to introduce to you some of the free resources that I have used in the past. I constantly revisit these resources from time to time. Learning about web development is fun and exciting if you approach it in a manner that fits you best. So, I always recommend you to exhaust all resources possible to find the ones that fit you.
 
 >Persistence is key!
+
 
 **1. Start with freeCodeCamp (FCC) for free**
 
