@@ -72,7 +72,9 @@
 
 /*read more button*/
 .button-read-more {
-	padding: 7px;
+	padding: 1%;
+	padding-left: 10%;
+	padding-right: 10%;
 	border-color: white;
 	text-align: center;
 	position: left;
@@ -81,10 +83,15 @@
 	color: #242943;
 	border-style: solid;
 	border-width: 1px;
-	width: 20%;
-	margin-bottom: 10%;
+	/*width: 20%;*/
+	margin-bottom: 5%;
 }
 
+hr {
+	background-color: white;
+	opacity: 0.2;
+	margin-bottom: 25%;
+}
 
 .all-post-list-item {
 	 line-height: 50px;

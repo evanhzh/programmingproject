@@ -6,7 +6,6 @@ description: A blog about dev projects & //TODO's
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.programmingproject.xyz" # the base hostname & protocol for your site //TODO //fix subscribe css text input color
 enforce_ssl: programmingproject.xyz
-paginate: 10
 paginate_path: "blog/page:num"
 author: Zhan Hui
 street_address:
