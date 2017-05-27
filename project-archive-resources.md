@@ -19,8 +19,8 @@ nav-menu: true
 
 			 <ul class="list-group">
 				 <li class="list-group-item">FreeCodeCamp's Front End Web Development Certificate</li>
-			   <li class="list-group-item">PomoFocus iOS Productivity App</li>
-			   <li class="list-group-item">Set Up a Portfolio/Blog Website @ ProjectHacks.xyz</li>
+			   <li class="list-group-item">iOS Productivity App</li>
+			   <li class="list-group-item">Set Up a Portfolio/Blog Website @ ProgrammingProject.xyz</li>
 			 </ul>
 
        <header class="major">
