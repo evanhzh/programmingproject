@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: landing
-description: 'Hi, my name is Zhan Hui! I am a Computer Engineering sophomore at the University of Wisconsin-Madison, United States.'
+description: Hi, I'm  Evan, a computer engineering undergraduate at the University of Wisconsin-Madison, U.S.
 image: assets/images/landing-page-pic/yellow-metal-design-decoration-min.jpg
 nav-menu: true
 ---
@@ -54,9 +54,9 @@ nav-menu: true
 					<h3>Becoming a Full Stack Web Developer</h3>
 				</header>
 					<p>I am currently working on Free Code Camp's Full Stack Web Development Certificate.</p>
-					<p><i>Update:  Almost done with my Front End Web Development Certificate!</i></p>
 				<ul class="actions">			
-					<li><a href="https://www.freecodecamp.com/e-mech" class="button">My FCC Camper's Code Portfolio</a></li>
+					<li  class="landing-fcc"><a href="https://www.freecodecamp.com/e-mech" class="button">My FCC Camper's Code Portfolio</a></li>
+					<li class="landing-fcc"><a href="https://www.freecodecamp.com/e-mech/front-end-certification" class="button">My FCC Front End Web Development Program Certificate!</a></li>
 				</ul>
 			</div>
 		</div>
@@ -88,7 +88,7 @@ nav-menu: true
 			<h2>About Programming Project</h2>
 		</header>
 		<p>Project Project is where I share the tips, tricks and resources that I found along the way as I work on my programming projects on iOS App Development and Web Development.</p>
-		<p>My hope is to drive all budding, young developers to find their own projects to learn and become better at what they are interested in. Often, they want to learn something but don't know where to start. Hopefully, Project Hacks could be a platform to spark discussions and springboard executable actions among them.</p>
+		<p>My hope is to drive all budding, young developers to find their own projects to learn and become better at what they are interested in. Often, they want to learn something but don't know where to start. Hopefully, Programming Project could be a platform to spark discussions and springboard executable actions among them.</p>
 		<p>I am more than excited to see those who want to learn programing become part of the growing community. It is my goal to move those who "want to learn programming" to those who "are programming".</p>
 		<ul class="actions">
 			<li><a href="all_posts.html" class="button next">Read more articles</a></li>

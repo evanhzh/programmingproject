@@ -41,6 +41,10 @@
 
 
 /*landing*/
+.landing-fcc {
+	margin-bottom: 20px;
+}
+
 	.landing-profile-pic {
 		border-radius: 50% !important;
 		width: 60% !important;
