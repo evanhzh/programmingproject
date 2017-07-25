@@ -56,7 +56,7 @@ nav-menu: true
 					<p>I am currently working on Free Code Camp's Full Stack Web Development Certificate.</p>
 				<ul class="actions">			
 					<li  class="landing-fcc"><a href="https://www.freecodecamp.com/e-mech" class="button">My FCC Camper's Code Portfolio</a></li>
-					<li class="landing-fcc"><a href="https://www.freecodecamp.com/e-mech/front-end-certification" class="button">My FCC Front End Web Development Program Certificate!</a></li>
+					<li class="landing-fcc"><a href="https://www.freecodecamp.com/e-mech/front-end-certification" class="button">My FCC Front End Certificate!</a></li>
 				</ul>
 			</div>
 		</div>
