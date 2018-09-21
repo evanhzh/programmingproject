@@ -136,7 +136,7 @@ hr {
 	}
 
 	.test {
-			background-image: url('/assets/images/programming-project-logo-final.png');
+			background-image: url('{{site.baseurl}}/assets/images/programming-project-logo-final.png');
 			background-size: contain;
 			background-repeat: no-repeat;
 			background-position: center;
