@@ -4,13 +4,8 @@ subtitle: on GitHub Pages
 email: hoezhanhui@gmail.com
 description: A blog about dev projects & //TODO's
 baseurl: "" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
-url: "https://evanzhoe.github.io/programmingproject/" # the base hostname & protocol for your site //TODO //fix subscribe css text input color
-enforce_ssl: "evanzhoe.github.io/programmingproject/"
-=======
 url: "https://evanzhoe.github.io" # the base hostname & protocol for your site //TODO //fix subscribe css text input color
 enforce_ssl: evanzhoe.github.io
->>>>>>> origin/gh-pages
 paginate_path: "blog/page:num"
 author: Zhan Hui
 street_address:
